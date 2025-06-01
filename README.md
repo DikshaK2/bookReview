@@ -22,5 +22,8 @@ A RESTful API for managing books and user reviews using Node.js, Express.js, and
 2. Install dependencies  
    `npm install`
 
-3. Create a `.env` file:
+3. Start the server
+   node server.js
+   
+4. Create a `.env` file:
 
